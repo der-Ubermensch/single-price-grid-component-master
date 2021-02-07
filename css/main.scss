@@ -131,6 +131,10 @@ body {
         font-size: 1rem;
         box-shadow: 1px 5px 5px hsl(0, 0%, 40%);
       }
+
+      a:hover {
+        background-color: darken(color(primary-btn), 10%);
+      }
   
     }
   
