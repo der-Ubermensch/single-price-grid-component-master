@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+body,
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Karla;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+body div#top__div {
+  padding: 20px;
+}
+
+body div#top__div h4 {
+  color: #2ab2af;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+body div#top__div h5 {
+  color: #c0df34;
+  font-size: 1rem;
+}
+
+body div#top__div p {
+  font-size: 1rem;
+  color: #98a6bd;
+}
+
+body div#mid__div {
+  background: #2ab2af;
+  color: #e5eff5;
+  padding: 20px;
+}
+
+body div#mid__div h4 {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+body div#mid__div div#digits {
+  float: left;
+  font-weight: 700;
+  font-size: 1.5rem;
+  padding-right: 2.5%;
+}
+
+body div#mid__div div#n {
+  font-size: 1rem;
+  color: #c7cedb;
+}
+
+body div#mid__div p {
+  font-size: 1rem;
+}
+
+body div#mid__div a {
+  text-align: center;
+  text-decoration: none;
+  background-color: #c0df34;
+  border-radius: 3%;
+  color: #e5eff5;
+  display: block;
+  text-align: center;
+  margin: 50px auto 0 auto;
+  padding: 13px;
+  font-size: 1rem;
+  -webkit-box-shadow: 1px 5px 5px #666666;
+          box-shadow: 1px 5px 5px #666666;
+}
+
+body div#bottom__div {
+  background: #3ed1ce;
+  color: #e5eff5;
+  padding: 20px;
+}
+
+body div#bottom__div h4 {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+body div#bottom__div p {
+  color: #e5eff5;
+  font-size: 1rem;
+}
+/*# sourceMappingURL=main.css.map */
